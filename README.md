@@ -1,2 +1,2 @@
 # awesome-ml-algorithms
-This is the classical machine learning algorithms that I've practiced.
+This is repo containing the classical machine learning algorithms that I've practiced.
